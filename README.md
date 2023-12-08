@@ -1,7 +1,7 @@
 # World-Population-Analysis-Report
 
 ## Introduction 
-This analysis demonstrates a range of demographic and statistical information about the world's population which include:  Total Population: An overview of the current global population and its distribution across continents and countries. Population Growth Rates: Analysis of population growth rates, including birth rates, death rates &amp; migration. 
+This project demonstrates a range of demographic and statistical information about the world's population which include:  Total Population: An overview of the current global population and its distribution across continents and countries. Population Growth Rates: Analysis of population growth rates, including birth rates, death rates &amp; migration. 
 
 There are approximately 7.97 billion people living in the world today, a figure that shows a dramatic increase since the beginning of the Common Era. Since the 1970s, the global population has also more than doubled in size. It is estimated that the global population will reach and surpass eight billion people by 2025 and plateau at around 11 billion at the end of the century.
 ### Asia
