@@ -47,7 +47,7 @@ It is only logical that an increase in the world’s population will cause addit
 
 Over a span of 2 years, our analysis shows that the percentage population increase of the world from 2020 to 2022 was 1.7%. Therefore, if this is not controlled, we could have the world overpopulated especially in China and India. 
 
-This can controlled using the combined efforts of spreading knowledge about family planning, increasing agency among women, and debunking widely held myths about contraception will measurably change the trajectory of the world’s population.
+This can be controlled using the combined efforts of spreading knowledge about family planning, increasing agency among women, and debunking widely held myths about contraception will measurably change the trajectory of the world’s population.
 
 
 
