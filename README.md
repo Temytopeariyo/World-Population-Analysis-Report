@@ -52,7 +52,7 @@ This can controlled using the combined efforts of spreading knowledge about fami
 
 
 
-Conclusion
+## Conclusion
 
 Conclusively, my in-depth analysis of the data has brightens valuable insights into the world population as it relate to continent, country/region of the world. From analysing population growth rate and contributions of each continent to the population growth of the world,  I believe we have gained a comprehensive understanding of our the world population. These insights serve as a compass, guiding us towards population control by leveraging this fact presented as visuals and make informed decisions tha will make the life better for every inhabitant of tyhe world.
 
