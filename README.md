@@ -45,7 +45,7 @@ Asia: When it comes to number of inhabitants per continent, Asia is the most pop
 
 It is only logical that an increase in the world’s population will cause additional strains on resources. More people means an increased demand for food, water, housing, energy, healthcare, transportation, and more. And all that consumption contributes to ecological degradation, increased conflicts, and a higher risk of large-scale disasters like pandemics.
 
-Over a span of 2 years, our analysis shows that the percentage population increase of the world from 2020 to 2022 was 1.7%. Therefore, if this is not controlled, we could have the world overpopulated especially in China and India. 
+Over a span of 2 years, our analysis shows that the percentage population increase of the world from 2020 to 2022 was 8.94% for Asia and 4.9% for Africa. Therefore, if this is not controlled, we could have the world overpopulated especially in China and India. 
 
 This can be controlled using the combined efforts of spreading knowledge about family planning, increasing agency among women, and debunking widely held myths about contraception will measurably change the trajectory of the world’s population.
 
